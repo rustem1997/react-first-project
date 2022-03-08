@@ -1,0 +1,10 @@
+.nav {
+  grid-area: nav;
+  background-color: rgb(190, 230, 164);
+  font-size: 25px;
+
+}
+
+.geti {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

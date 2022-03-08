@@ -1,0 +1,13 @@
+.content {
+  grid-area: content;
+  background-color: cadetblue;
+}
+
+.beki{
+  font-size: 23px;
+  color: aqua;
+}
+.geti{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: red;
+}
